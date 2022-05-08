@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @LiChen0459
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @LiChen
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning C/C++
+
+Contact me at:
+> 
+> Email: lichen143@outlook.com
+> 
+> QQ: 255453798
 
 <!---
 LiChen0459/LiChen0459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
