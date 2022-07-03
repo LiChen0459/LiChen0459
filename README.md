@@ -1,6 +1,15 @@
 
 ### LiChen
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=LiChen0459)
+<p>
+  <a href="https://blog.lc233.ml" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-blog.lc233.ml-%231D7EA7.svg?logo=wordpress&logoColor=white" />
+  </a> 
+  <a href="https://github.com/LiChen0459" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-LiChen-%2312100E.svg?logo=Github&logoColor=white" />
+  </a> 
+
+</p>
 
 
 - 👋 Hi, I’m @LiChen
