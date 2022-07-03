@@ -33,8 +33,9 @@ Contact me at:
 ![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
 
-
+### Github Stats
 [![LiChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiChen0459&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiChen0459)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 LiChen0459/LiChen0459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
