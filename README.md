@@ -1,10 +1,16 @@
 
 ### LiChen
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=LiChen0459)
+
 - 👋 Hi, I’m @LiChen
 - 👀 I’m interested in computer
-- 🌱 I’m currently learning C/C++
-Programming language
+- 🌱 I’m currently learning C/C++,JavaScript-React,CSharp,Java
+
+### Programming language
+![c/c++](https://img.shields.io/badge/-c/c++-blue?style=for-the-badge&logo=c&logoColor=white)
+![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/-JavaScript?style=for-the-badge&logo=java&logoColor=white)
 
 Contact me at:
 > 
