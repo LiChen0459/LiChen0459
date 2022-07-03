@@ -1,6 +1,5 @@
 
 ### LiChen
-![visitor](https://visitor-badge.laobi.icu/badge?page_id=LiChen0459)
 <p>
   <a href="https://blog.lc233.ml" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-blog.lc233.ml-%231D7EA7.svg?logo=wordpress&logoColor=white" />
