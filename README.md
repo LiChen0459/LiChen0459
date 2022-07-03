@@ -9,8 +9,8 @@
 ### Programming language
 ![c/c++](https://img.shields.io/badge/-c/c++-blue?style=for-the-badge&logo=c&logoColor=white)
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java&logoColor=white)
-![java](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=java&logoColor=white)
-![java](https://img.shields.io/badge/-JavaScript?style=for-the-badge&logo=java&logoColor=white)
+![CSharp](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=java&logoColor=white)
+
 
 Contact me at:
 > 
