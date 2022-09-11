@@ -1,14 +1,22 @@
-
-### LiChen
-<p>
+<h1 align="center">LiChen</h1>
+<div align="center">
   <a href="https://blog.lc233.ml" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-blog.lc233.ml-%231D7EA7.svg?logo=wordpress&logoColor=white" />
-  </a> 
+  </a>&emsp;
   <a href="https://github.com/LiChen0459" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-LiChen-%2312100E.svg?logo=Github&logoColor=white" />
-  </a> 
+  </a>&emsp;
+  <img src="https://visitor-badge.glitch.me/badge?page_id=LiChen" alt="访客统计" />&emsp;
+  <a href="https://space.bilibili.com/674991004/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 
-</p>
+</div>
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=print('HelloWorld');Hello,LiChen;&center=true&size=27">
+  </a>
+</h1>
+
 
 
 - 👋 Hi, I’m @LiChen
