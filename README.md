@@ -6,7 +6,6 @@
   <a href="https://github.com/LiChen0459" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-LiChen-%2312100E.svg?logo=Github&logoColor=white" />
   </a>&emsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=LiChen" alt="访客统计" />&emsp;
   <a href="https://space.bilibili.com/674991004/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 
 </div>
