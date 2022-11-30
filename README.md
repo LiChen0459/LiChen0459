@@ -30,11 +30,11 @@ Contact me at:
 
 ### Programming language
 ![c/c++](https://img.shields.io/badge/-c/c++-blue?style=for-the-badge&logo=c&logoColor=white)
-![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java&logoColor=white)
-![CSharp](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![GoLang](https://img.shields.io/badge/-GoLang-blue?style=for-the-badge&logo=go&logoColor=white)
+![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java&logoColor=white)
+![CSharp](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=java&logoColor=white)
 
 ### Tools
 ![idea](https://img.shields.io/badge/-VisualStudio-black?style=for-the-badge&logo=visualstudio&logoColor=white)
