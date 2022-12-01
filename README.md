@@ -10,8 +10,6 @@
 
 </div>
 
-![LiChen-logo](https://blog.lc233.ml/LiChen.svg)
-
 
 - 👋 Hi, I’m @LiChen
 - 👀 I’m interested in computer
