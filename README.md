@@ -9,13 +9,8 @@
   <a href="https://space.bilibili.com/674991004/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 
 </div>
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=print('HelloWorld');Hello,LiChen;&center=true&size=27">
-  </a>
-</h1>
 
+![LiChen-logo](./LiChen.svg)
 
 
 - 👋 Hi, I’m @LiChen
