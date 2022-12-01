@@ -10,7 +10,7 @@
 
 </div>
 
-![LiChen-logo](./LiChen.svg)
+![LiChen-logo](https://blog.lc233.ml/LiChen.svg)
 
 
 - 👋 Hi, I’m @LiChen
