@@ -11,9 +11,9 @@
 </div>
 
 
-- 👋 Hi, I’m @LiChen
-- 👀 I’m interested in computer
-- 🌱 I’m currently learning C/C++,JavaScript-React,CSharp,Java
+- 👋 Hi, I'm @LiChen
+- 👀 I'm interested in computer
+- 🌱 I'm currently learning C/C++,JavaScript-React,CSharp,Java
 Contact me at:
 > 
 > Email: lichen143@outlook.com
