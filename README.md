@@ -1,7 +1,7 @@
 <h1 align="center">LiChen</h1>
 <div align="center">
-  <a href="https://blog.lc233.ml" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-blog.lc233.ml-%231D7EA7.svg?logo=wordpress&logoColor=white" />
+  <a href="https://blog.lichen0459.top" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-blog.lichen0459.top-%231D7EA7.svg?logo=wordpress&logoColor=white" />
   </a>&emsp;
   <a href="https://github.com/LiChen0459" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-LiChen-%2312100E.svg?logo=Github&logoColor=white" />
