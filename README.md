@@ -18,7 +18,6 @@ Contact me at:
 > 
 > Email: lichen143@outlook.com
 > 
-> QQ: 255453798
 
 
 ### Programming language
