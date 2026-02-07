@@ -1,4 +1,4 @@
-<h1 align="center">LiChen</h1>
+<h1 align="center">Chen.</h1>
 <div align="center">
   <a href="https://blog.lichen0459.top" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-blog.lichen0459.top-%231D7EA7.svg?logo=wordpress&logoColor=white" />
