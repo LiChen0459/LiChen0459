@@ -1,42 +1,54 @@
-<h1 align="center">Chen.</h1>
-<div align="center">
-  <a href="https://blog.lichen0459.top" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-blog.lichen0459.top-%231D7EA7.svg?logo=wordpress&logoColor=white" />
-  </a>&emsp;
-  <a href="https://github.com/LiChen0459" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-LiChen-%2312100E.svg?logo=Github&logoColor=white" />
-  </a>&emsp;
-  <a href="https://space.bilibili.com/674991004/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+# Chen.
 
-</div>
+**Developer / Competitive Programmer / Photographer**
 
+Building things for the web, exploring algorithms, and capturing moments through photography.
 
-- 👋 Hi, I'm @Chen.
-- 👀 I'm interested in computer
-- 🌱 I'm currently learning C/C++,JavaScript-React,CSharp,Java
-Contact me at:
-> 
-> Email: lichen143@outlook.com
-> 
+[Website](https://chen2009.top) · [Blog](https://blog.chen2009.top) · [Bilibili](https://space.bilibili.com/674991004) · [Email](mailto:lichen143@outlook.com)
 
+---
 
-### Programming language
-![c/c++](https://img.shields.io/badge/-c/c++-blue?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![GoLang](https://img.shields.io/badge/-GoLang-blue?style=for-the-badge&logo=go&logoColor=white)
-![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java&logoColor=white)
-![CSharp](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=java&logoColor=white)
+### About Me
 
-### Tools
-![idea](https://img.shields.io/badge/-VisualStudio-black?style=for-the-badge&logo=visualstudio&logoColor=white)
-![idea](https://img.shields.io/badge/-idea-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
-![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
+Hi, I'm **Chen**.
 
+I'm a student developer passionate about software engineering, competitive programming, and photography.
 
-<!---
-LiChen0459/LiChen0459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Currently exploring **C/C++, JavaScript, Vue, Python and Rust**
+- Interested in **Web Development, Algorithms and System Design**
+- Enjoy **Landscape, Portrait and Creative Photography**
+- Always learning, building and experimenting with new ideas
+
+### Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Frameworks & Tools**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Selected Projects
+
+**[Chen's Website](https://chen2009.top)**
+
+A personal space for development, photography, and creative experiments.
+
+**[Chen Blog](https://github.com/LiChen0459/chenBlog)**
+
+My personal blog project, built for sharing technical notes and experiences.
+
+### GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiChen0459&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+
+---
+
+<sub>Code, create, capture. © Chen.</sub>
