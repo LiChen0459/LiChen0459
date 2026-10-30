@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img src="./assets/hero-light.svg" alt="Chen — Developer, Competitive Programmer, Photographer" width="100%">
+    <img src="./assets/hero-light.svg" alt="Chen — Developer, Competitive Programmer & Photographer" width="100%">
   </picture>
 </div>
 
@@ -16,39 +16,56 @@
 
 <br>
 
-### 01 — Introduction
+### 01 — About
 
-I'm **Chen**, a student developer and competitive programming enthusiast with a passion for photography.
+Hi, I'm **Chen** — a student developer, competitive programming enthusiast, and photographer.
 
-I build web experiences, explore algorithms, and capture stories through a lens. I value thoughtful design, reliable software, and the details that make things feel right.
+I enjoy turning ideas into meaningful digital experiences, solving algorithmic challenges, and capturing moments through photography.
 
-### 02 — Focus
+Driven by curiosity. Focused on the details.
 
-| DEVELOPMENT | ALGORITHMS | PHOTOGRAPHY |
-| :-- | :-- | :-- |
-| Interfaces, practical tools, and experiments. | C++, data structures, and problem solving. | Landscape, portrait, and everyday scenes. |
+### 02 — What I Do
 
-### 03 — Toolkit
+| DEVELOPMENT | COMPETITIVE PROGRAMMING | PHOTOGRAPHY |
+| :--- | :--- | :--- |
+| Building modern web experiences and useful tools. | Exploring algorithms, data structures, and problem solving. | Capturing landscapes, portraits, and everyday moments. |
 
-**Languages** `C++` · `JavaScript` · `Python` · `Rust`  
-**Web** `Vue` · `Node.js` · `HTML / CSS`  
-**Tools** `Git` · `MySQL` · `Markdown`
+### 03 — Tech Stack
 
-### 04 — Selected Work
+**Languages**  
+`C++` · `JavaScript` · `TypeScript` · `Python`
+
+**Frameworks & Runtime**  
+`Vue` · `React` · `Node.js`
+
+**Tools & Technologies**  
+`Git` · `MySQL` · `Markdown`
+
+### 04 — Selected Projects
 
 **01 / [Chen's Website](https://chen2009.top)**  
-A personal space for software, design, and photography.
+Personal website · Portfolio
+
+A digital space showcasing my projects, photography, and creative experiments.
 
 **02 / [Chen Blog](https://github.com/LiChen0459/chenBlog)**  
-An open-source home for notes, technical writing, and experiments.
+Open Source · Blogging
 
-**03 / PhotoFlow**  
-A photography delivery workflow for sharing finished photos with clients. *Work in progress.*
+A place to document what I learn, share technical insights, and explore new ideas.
 
-### 05 — Contact
+**03 / [Heart Order · 心序](https://heart-order.chen2009.top/)**  
+Interactive Web · Personality & Relationships
 
-For collaboration, questions, or a simple hello: **[lichen143@outlook.com](mailto:lichen143@outlook.com)**
+An interactive experience exploring personality, relationships, and meaningful connections.
+
+### 05 — Get in Touch
+
+Have an idea, a question, or just want to say hello?
+
+**[lichen143@outlook.com](mailto:lichen143@outlook.com)**
 
 ---
 
-<p align="center"><sub>CODE &nbsp; / &nbsp; CREATE &nbsp; / &nbsp; CAPTURE</sub></p>
+<p align="center">
+  <sub>CODE &nbsp; / &nbsp; CREATE &nbsp; / &nbsp; CAPTURE</sub>
+</p>
