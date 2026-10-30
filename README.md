@@ -1,54 +1,61 @@
-# Chen.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img alt="Chen — Developer, Competitive Programmer, Photographer" src="./assets/hero-light.svg" width="100%">
+  </picture>
+</div>
 
-**Developer / Competitive Programmer / Photographer**
+<br>
 
-Building things for the web, exploring algorithms, and capturing moments through photography.
+<div align="center">
+  <a href="https://chen2009.top">Website</a> &nbsp;·&nbsp;
+  <a href="https://blog.chen2009.top">Blog</a> &nbsp;·&nbsp;
+  <a href="https://github.com/LiChen0459">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://space.bilibili.com/674991004">Bilibili</a> &nbsp;·&nbsp;
+  <a href="mailto:lichen143@outlook.com">Email</a>
+</div>
 
-[Website](https://chen2009.top) · [Blog](https://blog.chen2009.top) · [Bilibili](https://space.bilibili.com/674991004) · [Email](mailto:lichen143@outlook.com)
+<br>
+
+### 01 / About
+
+Hi, I'm **Chen** — a student developer interested in building thoughtful digital experiences, solving algorithmic problems, and capturing the world through photography.
+
+I work across web development and competitive programming, with a focus on clean interfaces, practical tools, and continuous learning.
+
+### 02 / What I Do
+
+| Development | Competitive Programming | Photography |
+| :--- | :--- | :--- |
+| Web experiences, useful tools, and side projects. | C++ algorithms, data structures, and problem solving. | Landscapes, portraits, and everyday moments. |
+
+### 03 / Stack
+
+**Languages** &nbsp; `C++` `JavaScript` `Python` `Rust`
+
+**Web & tools** &nbsp; `Vue` `Node.js` `Git` `MySQL`
+
+### 04 / Selected Work
+
+**[Chen's Website](https://chen2009.top)**  
+My personal space for development, photography, and experiments.
+
+**[Chen Blog](https://github.com/LiChen0459/chenBlog)**  
+An open-source blog for technical notes, projects, and ideas.
+
+**PhotoFlow**  
+A photography delivery platform concept, designed to simplify getting finished photos from photographer to client. *In development.*
+
+### 05 / Connect
+
+Have a project, an idea, or just want to say hello?  
+**[lichen143@outlook.com](mailto:lichen143@outlook.com)**
 
 ---
 
-### About Me
-
-Hi, I'm **Chen**.
-
-I'm a student developer passionate about software engineering, competitive programming, and photography.
-
-- Currently exploring **C/C++, JavaScript, Vue, Python and Rust**
-- Interested in **Web Development, Algorithms and System Design**
-- Enjoy **Landscape, Portrait and Creative Photography**
-- Always learning, building and experimenting with new ideas
-
-### Tech Stack
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-
-**Frameworks & Tools**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Selected Projects
-
-**[Chen's Website](https://chen2009.top)**
-
-A personal space for development, photography, and creative experiments.
-
-**[Chen Blog](https://github.com/LiChen0459/chenBlog)**
-
-My personal blog project, built for sharing technical notes and experiences.
-
-### GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiChen0459&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-
----
-
-<sub>Code, create, capture. © Chen.</sub>
+<div align="center">
+  <sub>CODE &nbsp;·&nbsp; CREATE &nbsp;·&nbsp; CAPTURE</sub>
+  <br>
+  <sub>© Chen</sub>
+</div>
