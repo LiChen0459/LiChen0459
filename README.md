@@ -2,60 +2,53 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img alt="Chen — Developer, Competitive Programmer, Photographer" src="./assets/hero-light.svg" width="100%">
+    <img src="./assets/hero-light.svg" alt="Chen — Developer, Competitive Programmer, Photographer" width="100%">
   </picture>
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://chen2009.top">Website</a> &nbsp;·&nbsp;
-  <a href="https://blog.chen2009.top">Blog</a> &nbsp;·&nbsp;
-  <a href="https://github.com/LiChen0459">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://space.bilibili.com/674991004">Bilibili</a> &nbsp;·&nbsp;
+<p align="center">
+  <a href="https://chen2009.top">Website</a> &nbsp; / &nbsp;
+  <a href="https://blog.chen2009.top">Blog</a> &nbsp; / &nbsp;
+  <a href="https://github.com/LiChen0459/chenBlog">Open Source</a> &nbsp; / &nbsp;
+  <a href="https://space.bilibili.com/674991004">Bilibili</a> &nbsp; / &nbsp;
   <a href="mailto:lichen143@outlook.com">Email</a>
-</div>
+</p>
 
 <br>
 
-### 01 / About
+### 01 — Introduction
 
-Hi, I'm **Chen** — a student developer interested in building thoughtful digital experiences, solving algorithmic problems, and capturing the world through photography.
+I'm **Chen**, a student developer and competitive programming enthusiast with a passion for photography.
 
-I work across web development and competitive programming, with a focus on clean interfaces, practical tools, and continuous learning.
+I build web experiences, explore algorithms, and capture stories through a lens. I value thoughtful design, reliable software, and the details that make things feel right.
 
-### 02 / What I Do
+### 02 — Focus
 
-| Development | Competitive Programming | Photography |
-| :--- | :--- | :--- |
-| Web experiences, useful tools, and side projects. | C++ algorithms, data structures, and problem solving. | Landscapes, portraits, and everyday moments. |
+| DEVELOPMENT | ALGORITHMS | PHOTOGRAPHY |
+| :-- | :-- | :-- |
+| Interfaces, practical tools, and experiments. | C++, data structures, and problem solving. | Landscape, portrait, and everyday scenes. |
 
-### 03 / Stack
+### 03 — Toolkit
 
-**Languages** &nbsp; `C++` `JavaScript` `Python` `Rust`
+**Languages** `C++` · `JavaScript` · `Python` · `Rust`  
+**Web** `Vue` · `Node.js` · `HTML / CSS`  
+**Tools** `Git` · `MySQL` · `Markdown`
 
-**Web & tools** &nbsp; `Vue` `Node.js` `Git` `MySQL`
+### 04 — Selected Work
 
-### 04 / Selected Work
+**01 / [Chen's Website](https://chen2009.top)**  
+A personal space for software, design, and photography.
 
-**[Chen's Website](https://chen2009.top)**  
-My personal space for development, photography, and experiments.
+**02 / [Chen Blog](https://github.com/LiChen0459/chenBlog)**  
+An open-source home for notes, technical writing, and experiments.
 
-**[Chen Blog](https://github.com/LiChen0459/chenBlog)**  
-An open-source blog for technical notes, projects, and ideas.
+**03 / PhotoFlow**  
+A photography delivery workflow for sharing finished photos with clients. *Work in progress.*
 
-**PhotoFlow**  
-A photography delivery platform concept, designed to simplify getting finished photos from photographer to client. *In development.*
+### 05 — Contact
 
-### 05 / Connect
-
-Have a project, an idea, or just want to say hello?  
-**[lichen143@outlook.com](mailto:lichen143@outlook.com)**
+For collaboration, questions, or a simple hello: **[lichen143@outlook.com](mailto:lichen143@outlook.com)**
 
 ---
 
-<div align="center">
-  <sub>CODE &nbsp;·&nbsp; CREATE &nbsp;·&nbsp; CAPTURE</sub>
-  <br>
-  <sub>© Chen</sub>
-</div>
+<p align="center"><sub>CODE &nbsp; / &nbsp; CREATE &nbsp; / &nbsp; CAPTURE</sub></p>
