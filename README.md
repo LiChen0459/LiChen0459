@@ -5,14 +5,13 @@
     <img src="./assets/hero-light.svg" alt="Chen — Developer, Competitive Programmer & Photographer" width="100%">
   </picture>
 </div>
-
 <p align="center">
   <a href="https://chen2009.top">Website</a> &nbsp; / &nbsp;
   <a href="https://blog.chen2009.top">Blog</a> &nbsp; / &nbsp;
-  <a href="https://github.com/LiChen0459/chenBlog">Open Source</a> &nbsp; / &nbsp;
   <a href="https://space.bilibili.com/674991004">Bilibili</a> &nbsp; / &nbsp;
   <a href="mailto:lichen143@outlook.com">Email</a>
 </p>
+
 
 <br>
 
